@@ -3,12 +3,12 @@
     <channel>
         <title>Pauta</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 23 Apr 2026 18:22:54 +0000</pubDate>
-            <sparkle:version>0.1.0</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Thu, 23 Apr 2026 20:11:39 +0000</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LeonardoLuize/pauta-releases/releases/download/v0.1.0/Pauta-0.1.0.dmg" length="13505078" type="application/octet-stream" sparkle:edSignature="3loVSFJkNEniRjS1R3W/BsExYQDTBlH0V4npxAAWDouO0856LgjHUMkawI9WorImrEinbZ0L8htOuLdp/54WCg=="/>
+            <enclosure url="https://github.com/LeonardoLuize/pauta-releases/releases/download/v0.1.1/Pauta-0.1.1.dmg" length="13498261" type="application/octet-stream" sparkle:edSignature="JDG96MphD6KvinSuks4McJOyuTqNBL8Pjeotkg8BQ+Xi9uJrFt5TlHN3VcL1rWAa7mEGGtXaXkv1uVBK0A67Cw=="/>
         </item>
     </channel>
 </rss>
